@@ -16,7 +16,7 @@ params:
       - label: About
         url: /about
         style: link
-      - label: Style Guide
+      - label: Gallery
         url: /style-guide
         style: link
       - label: Contact
